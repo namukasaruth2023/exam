@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+    
+    
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
+.content{
+   color: blue; 
+}
+gallery{
+    width: 20px;
+    height: 40px;
+}
+.about{
+    list-style: none;
+    background-color: blueviolet;
+}
